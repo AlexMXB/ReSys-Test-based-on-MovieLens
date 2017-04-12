@@ -1,7 +1,7 @@
 # ReSys-Test-based-on-MovieLens
 Reconmendation-System-in-python                                                                                                           
 1.Base on python Surprise package and MovieLens 100k dataset to make Rating Prediction:Evaluate the performance by RMSE and MAE   
-output like this:
+output like this:                                                                                                       
 Computing the pearson similarity matrix...
 Done computing similarity matrix.
 user: 1          item: 1          r_ui = 4.00   est = 3.95   {u'actual_k': 40, u'was_impossible': False}
